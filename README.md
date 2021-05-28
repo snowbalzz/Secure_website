@@ -2,7 +2,7 @@
 <p align='center'>Secure routes laravel project!</p>
 <p align='center'>By Daniils ALeksasins</p>
 
-## Assignemt number 1.
+## Assignment number 1.
 
 - Applications has log-in, log-out, register and forgot password function.
 - Routes like '/dashboard' and '/frog' can be only seen if you are logged in to the system.
